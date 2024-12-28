@@ -1,7 +1,7 @@
 # R course for beginners
 # Week 7
 # Asaf Hoory 211671714
-
+# date: 20/12/2024
 
 rm(list = ls()) #cleaning the variables 
 library(dplyr)

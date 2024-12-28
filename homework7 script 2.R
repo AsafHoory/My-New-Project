@@ -1,3 +1,5 @@
+#script 2 done by Asaf Hoory at 21/12/2024
+
 #loading df
 load("C:/Users/LENOVO/Desktop/R/df.rdata")
 library(dplyr)
