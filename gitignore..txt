@@ -1,0 +1,3 @@
+*.csv      # מתעלם מכל קובצי CSV
+passwords.txt  # מתעלם מקובץ passwords.txt
+temp/      # מתעלם מתיקייה בשם temp
